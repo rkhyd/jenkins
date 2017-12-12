@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello there"
+echo "hello there from github"
